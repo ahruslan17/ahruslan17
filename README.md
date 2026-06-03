@@ -81,38 +81,6 @@ Telegram Bot API · Discord · Slack · Matrix · Feishu/Lark · DingTalk · WeC
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahruslan17&theme=github_dark" alt="Top languages by repository" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahruslan17&theme=github_dark" alt="Top languages by commit" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahruslan17&theme=github_dark" alt="GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ahruslan17&theme=github-dark-blue&hide_border=true&background=020617&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahruslan17&theme=github-compact&hide_border=true&bg_color=020617&color=cbd5e1&line=2563eb&point=60a5fa&area=true&area_color=2563eb" alt="GitHub activity graph" />
-</p>
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahruslan17/ahruslan17/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
-
-## Principles
-
-- Make it useful first, beautiful second, reliable always
-- Prefer explicit code and small diffs
-- Automate repeatable work
-- Keep tools sharp, local, and understandable
-
----
-
-<p align="center">
-  <strong>Build simple things. Make them work. Make them last.</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:020617&height=90&section=footer" alt="Footer" />
 </p>
