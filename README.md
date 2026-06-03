@@ -14,10 +14,28 @@
 
 ## Focus
 
-- AI agents, developer tools, and automation workflows
-- Backend services, APIs, integrations, and data-heavy systems
-- Minimal interfaces that are fast, reliable, and easy to maintain
-- Local-first tools, Linux workflows, and reproducible engineering setups
+<table>
+  <tr>
+    <td width="50%">
+      <h3>AI Systems</h3>
+      <p>AI agents, developer tools, and automation workflows.</p>
+    </td>
+    <td width="50%">
+      <h3>Backend Engineering</h3>
+      <p>Backend services, APIs, integrations, and data-heavy systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Product Interfaces</h3>
+      <p>Minimal interfaces that are fast, reliable, and easy to maintain.</p>
+    </td>
+    <td width="50%">
+      <h3>Local Workflows</h3>
+      <p>Local-first tools, Linux workflows, and reproducible engineering setups.</p>
+    </td>
+  </tr>
+</table>
 
 ## Technical Stack
 
