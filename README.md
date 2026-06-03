@@ -8,11 +8,7 @@
   <img src="https://img.shields.io/badge/Open%20to-AI%20%26%20Backend-2563eb?style=flat-square&labelColor=020617" alt="Open to AI and Backend" />
 </p>
 
-<h3 align="center">I build practical software, AI tools, backend systems, and automation that survives real usage.</h3>
-
 ---
-
-## Focus
 
 <p align="center">
   <img src="assets/focus.svg" alt="Focus areas: AI systems, backend engineering, product interfaces, and local workflows" />
