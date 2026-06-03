@@ -65,15 +65,6 @@ Docker · Docker Compose · Linux · Git · GitHub Actions · Nix · PowerShell 
 
 Telegram Bot API · Discord · Slack · Matrix · Feishu/Lark · DingTalk · WeCom · Google Workspace APIs · YouTube APIs · Browser automation · Voice/TTS/STT integrations
 
-## Selected Work
-
-| Project | Stack | What it is |
-| --- | --- | --- |
-| [hermes-agent](https://github.com/ahruslan17/hermes-agent) | Python · TypeScript · AI agents · MCP | Self-improving AI agent with tools, skills, messaging, and web UI |
-| [opencode](https://github.com/ahruslan17/opencode) | TypeScript · Bun · TUI · SDKs | Open-source coding agent and developer tooling |
-| [voicium](https://github.com/ahruslan17/voicium) | Python · Linux · Speech-to-text | Fast Russian push-to-talk dictation for Ubuntu |
-| [video2text-ffmpeg-whisper](https://github.com/ahruslan17/video2text-ffmpeg-whisper) | Python · FFmpeg · Whisper | Local video-to-text transcription utility |
-
 ## GitHub Metrics
 
 <p align="center">
