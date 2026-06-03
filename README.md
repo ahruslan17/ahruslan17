@@ -67,34 +67,27 @@ Telegram Bot API · Discord · Slack · Matrix · Feishu/Lark · DingTalk · WeC
 
 ## Selected Work
 
-<p align="center">
-  <a href="https://github.com/ahruslan17/hermes-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahruslan17&repo=hermes-agent&theme=github_dark&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1&icon_color=2563eb" alt="hermes-agent" />
-  </a>
-  <a href="https://github.com/ahruslan17/opencode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahruslan17&repo=opencode&theme=github_dark&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1&icon_color=2563eb" alt="opencode" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ahruslan17/voicium">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahruslan17&repo=voicium&theme=github_dark&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1&icon_color=2563eb" alt="voicium" />
-  </a>
-  <a href="https://github.com/ahruslan17/video2text-ffmpeg-whisper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahruslan17&repo=video2text-ffmpeg-whisper&theme=github_dark&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1&icon_color=2563eb" alt="video2text-ffmpeg-whisper" />
-  </a>
-</p>
+| Project | Stack | What it is |
+| --- | --- | --- |
+| [hermes-agent](https://github.com/ahruslan17/hermes-agent) | Python · TypeScript · AI agents · MCP | Self-improving AI agent with tools, skills, messaging, and web UI |
+| [opencode](https://github.com/ahruslan17/opencode) | TypeScript · Bun · TUI · SDKs | Open-source coding agent and developer tooling |
+| [voicium](https://github.com/ahruslan17/voicium) | Python · Linux · Speech-to-text | Fast Russian push-to-talk dictation for Ubuntu |
+| [video2text-ffmpeg-whisper](https://github.com/ahruslan17/video2text-ffmpeg-whisper) | Python · FFmpeg · Whisper | Local video-to-text transcription utility |
 
 ## GitHub Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahruslan17&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1&icon_color=2563eb&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ahruslan17&theme=github-dark-blue&hide_border=true&background=020617&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahruslan17&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahruslan17&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1&langs_count=10" alt="Top languages" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=ahruslan17&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=3" alt="GitHub trophies" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahruslan17&theme=github_dark" alt="Top languages by repository" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahruslan17&theme=github_dark" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahruslan17&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ahruslan17&theme=github-dark-blue&hide_border=true&background=020617&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak" />
 </p>
 
 <p align="center">
