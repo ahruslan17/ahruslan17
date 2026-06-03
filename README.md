@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=190&section=header&text=Ruslan%20Rahmetzyanov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20Agents%20%7C%20Automation&descAlignY=58&descSize=15" alt="Ruslan Rahmetzyanov" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=190&section=header&text=Ruslan%20Akhmetzianov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20Agents%20%7C%20Automation&descAlignY=58&descSize=15" alt="Ruslan Akhmetzianov" />
 </p>
 
 <p align="center">
@@ -14,28 +14,9 @@
 
 ## Focus
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>AI Systems</h3>
-      <p>AI agents, developer tools, and automation workflows.</p>
-    </td>
-    <td width="50%">
-      <h3>Backend Engineering</h3>
-      <p>Backend services, APIs, integrations, and data-heavy systems.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Product Interfaces</h3>
-      <p>Minimal interfaces that are fast, reliable, and easy to maintain.</p>
-    </td>
-    <td width="50%">
-      <h3>Local Workflows</h3>
-      <p>Local-first tools, Linux workflows, and reproducible engineering setups.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/focus.svg" alt="Focus areas: AI systems, backend engineering, product interfaces, and local workflows" />
+</p>
 
 ## Technical Stack
 
